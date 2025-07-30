@@ -1,4 +1,5 @@
 # taskaty
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+to do task app to manage my  daily tasks
+>>>>>>> 342a762673a54881601f14179d280038681bb624
